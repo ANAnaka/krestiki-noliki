@@ -1,0 +1,16 @@
+C:\Users\annak\source\repos\Папа купи пёика\bin\Debug\Папа купи пёика.exe.config
+C:\Users\annak\source\repos\Папа купи пёика\bin\Debug\Папа купи пёика.exe
+C:\Users\annak\source\repos\Папа купи пёика\bin\Debug\Папа купи пёика.pdb
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика.csproj.AssemblyReference.cache
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика.csproj.SuggestedBindingRedirects.cache
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\MainWindow.g.cs
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\App.g.cs
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика_MarkupCompile.cache
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика_MarkupCompile.lref
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\MainWindow.baml
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика.g.resources
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа_купи_пёика.Properties.Resources.resources
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика.csproj.GenerateResource.cache
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика.csproj.CoreCompileInputs.cache
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика.exe
+C:\Users\annak\source\repos\Папа купи пёика\obj\Debug\Папа купи пёика.pdb
